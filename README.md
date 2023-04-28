@@ -36,7 +36,7 @@ take 3 [1, 2, 3, 4, 5]
 `> [4, 5]`
 
 
-Get the length of a list:
+Calculate the sum of alist of numbers:
 ```haskell
 length [1, 2, 3, 4, 5]
 ```
