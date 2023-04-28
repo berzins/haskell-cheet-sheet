@@ -27,3 +27,10 @@ Select first n elements:
 take 3 [1, 2, 3, 4, 5]
 ```
 `> [1, 2, 3]`
+
+
+Remove the first n elements:
+```haskell
+take 3 [1, 2, 3, 4, 5]
+```
+`> [1, 2, 3]`
