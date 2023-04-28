@@ -34,7 +34,6 @@ Remove the first n elements:
 take 3 [1, 2, 3, 4, 5]
 ```
 `> [4, 5]`
-3]`
 
 
 Get the length of a list:
@@ -42,3 +41,15 @@ Get the length of a list:
 length [1, 2, 3, 4, 5]
 ```
 `> 5`
+
+
+
+Get the length of a list:
+```haskell
+sum [1, 2, 3, 4, 5]
+```
+`> 15`
+```haskell
+sum []
+```
+`> 0`
