@@ -59,3 +59,21 @@ Calculate the product/multiplication of a list of numbers:
 product [1, 2, 3, 4, 5]
 ```
 `> 120`
+
+
+Append two lists:
+```haskell
+[1, 2, 3] ++ [4, 5] 
+```
+`> [1, 2, 3, 4, 5]`
+
+
+
+
+Reverse list:
+```haskell
+reverse [1, 2, 3] + [4, 5] 
+```
+`> [5, 4, 3, 2, 1]`
+
+
