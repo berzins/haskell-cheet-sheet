@@ -43,7 +43,6 @@ length [1, 2, 3, 4, 5]
 `> 5`
 
 
-
 Get the length of a list:
 ```haskell
 sum [1, 2, 3, 4, 5]
@@ -53,3 +52,10 @@ sum [1, 2, 3, 4, 5]
 sum []
 ```
 `> 0`
+
+
+Calculate the product/multiplication of a list of numbers:
+```haskell
+product [1, 2, 3, 4, 5]
+```
+`> 120`
